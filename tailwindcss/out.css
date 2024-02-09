@@ -873,4 +873,8 @@ video {
   .md\:flex {
     display: flex;
   }
+
+  .md\:w-rem40 {
+    width: 40rem;
+  }
 }
