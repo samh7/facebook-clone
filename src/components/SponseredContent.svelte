@@ -30,6 +30,7 @@
 
 <style>
   .sponsered-content {
+    height: 100%;
       background-color: #f0f2f5;
     margin-left: 60.5rem;
     position: fixed;
