@@ -71,6 +71,7 @@
     border: 1px solid #ced0d4;
   }
   .post-container {
+    width: 30rem;
     background-color: white;
     float: left;
   }
@@ -79,6 +80,6 @@
     max-width: 30rem;
   }
   .max-w {
-    max-width: 30rem;
+  max-width: 30rem;
   }
 </style>
