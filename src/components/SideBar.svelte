@@ -26,6 +26,10 @@
   <Events />
   <AdsManager />
   <CrisisResponce />
+  <Friends />
+  <Memories />
+  <VideoPlay />
+  <Marketplace />
   <SeeMore/>
 </div>
 
